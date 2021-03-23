@@ -5,9 +5,7 @@
 }
 
 .image-container {
-    /* display: inline; */
     width: 150px;
     height: 150px;
     background-color: coral;
-
 }

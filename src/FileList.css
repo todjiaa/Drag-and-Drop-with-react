@@ -2,6 +2,14 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    text-align: center;
     background-color: rgba(0, 0, 255, 0.342);
+}
+
+.file-list h2 {
+    text-align: center;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    margin-left: 25%;
+    border-bottom: 1.5px solid black;
 }
